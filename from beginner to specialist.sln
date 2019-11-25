@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "from beginner to specialist", "from beginner to specialist\from beginner to specialist.csproj", "{A3D168C6-420B-4A1B-AB96-6E0D75585518}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Literals", "Literals\Literals.csproj", "{2A6BABB1-ADF2-42D3-BD87-713CFFA083C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Area of ​​Visibility Variables", "Area of ​​Visibility Variables\Area of ​​Visibility Variables.csproj", "{AC992A3B-5A9B-4927-B9C0-2825CF922484}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{A3D168C6-420B-4A1B-AB96-6E0D75585518}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3D168C6-420B-4A1B-AB96-6E0D75585518}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3D168C6-420B-4A1B-AB96-6E0D75585518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A6BABB1-ADF2-42D3-BD87-713CFFA083C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A6BABB1-ADF2-42D3-BD87-713CFFA083C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A6BABB1-ADF2-42D3-BD87-713CFFA083C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A6BABB1-ADF2-42D3-BD87-713CFFA083C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC992A3B-5A9B-4927-B9C0-2825CF922484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC992A3B-5A9B-4927-B9C0-2825CF922484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC992A3B-5A9B-4927-B9C0-2825CF922484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC992A3B-5A9B-4927-B9C0-2825CF922484}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
