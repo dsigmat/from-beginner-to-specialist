@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algebraic operations", "Alg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Instance and Static Methods", "Instance and Static Methods\Instance and Static Methods.csproj", "{1BEBDB68-D4B0-4027-BDF4-AA26989C2FF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basic String API", "Basic String API\Basic String API.csproj", "{4065F5B3-5487-427E-A507-112028EAB92B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1BEBDB68-D4B0-4027-BDF4-AA26989C2FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BEBDB68-D4B0-4027-BDF4-AA26989C2FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BEBDB68-D4B0-4027-BDF4-AA26989C2FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4065F5B3-5487-427E-A507-112028EAB92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4065F5B3-5487-427E-A507-112028EAB92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4065F5B3-5487-427E-A507-112028EAB92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4065F5B3-5487-427E-A507-112028EAB92B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
