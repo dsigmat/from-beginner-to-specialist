@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace from_beginner_to_specialist
+namespace From_beginner_to_specialist
 {
     class Program
     {
