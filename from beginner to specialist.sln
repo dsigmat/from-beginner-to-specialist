@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String formatting", "String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String comparison", "String comparison\String comparison.csproj", "{9A54E016-EB3B-4CEC-89D6-3C0656152680}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "We work with the console", "We work with the console\We work with the console.csproj", "{5277849F-4A12-4131-ACCB-A8870680AB0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{9A54E016-EB3B-4CEC-89D6-3C0656152680}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A54E016-EB3B-4CEC-89D6-3C0656152680}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A54E016-EB3B-4CEC-89D6-3C0656152680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5277849F-4A12-4131-ACCB-A8870680AB0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5277849F-4A12-4131-ACCB-A8870680AB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5277849F-4A12-4131-ACCB-A8870680AB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5277849F-4A12-4131-ACCB-A8870680AB0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
