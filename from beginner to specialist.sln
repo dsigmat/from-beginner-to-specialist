@@ -23,6 +23,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line change", "Line change\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Builder", "String Builder\String Builder.csproj", "{22F14A04-3E48-4F6A-8848-5B9BF135A86B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String formatting", "String formatting\String formatting.csproj", "{FFA57D3F-5862-48E2-B896-4758F3B31C69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String comparison", "String comparison\String comparison.csproj", "{9A54E016-EB3B-4CEC-89D6-3C0656152680}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +73,14 @@ Global
 		{22F14A04-3E48-4F6A-8848-5B9BF135A86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F14A04-3E48-4F6A-8848-5B9BF135A86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F14A04-3E48-4F6A-8848-5B9BF135A86B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFA57D3F-5862-48E2-B896-4758F3B31C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFA57D3F-5862-48E2-B896-4758F3B31C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFA57D3F-5862-48E2-B896-4758F3B31C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFA57D3F-5862-48E2-B896-4758F3B31C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A54E016-EB3B-4CEC-89D6-3C0656152680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A54E016-EB3B-4CEC-89D6-3C0656152680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A54E016-EB3B-4CEC-89D6-3C0656152680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A54E016-EB3B-4CEC-89D6-3C0656152680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
