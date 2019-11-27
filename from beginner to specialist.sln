@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String comparison", "String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "We work with the console", "We work with the console\We work with the console.csproj", "{5277849F-4A12-4131-ACCB-A8870680AB0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Privedeniye tipov i parsing", "Privedeniye tipov i parsing\Privedeniye tipov i parsing.csproj", "{80A351DF-269B-4E83-9480-93AB3BF0A81F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments", "Comments\Comments.csproj", "{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +91,14 @@ Global
 		{5277849F-4A12-4131-ACCB-A8870680AB0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5277849F-4A12-4131-ACCB-A8870680AB0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5277849F-4A12-4131-ACCB-A8870680AB0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A351DF-269B-4E83-9480-93AB3BF0A81F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A351DF-269B-4E83-9480-93AB3BF0A81F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A351DF-269B-4E83-9480-93AB3BF0A81F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A351DF-269B-4E83-9480-93AB3BF0A81F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
