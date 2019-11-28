@@ -19,19 +19,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Basic String API", "Basic S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Empty line", "Empty line\Empty line.csproj", "{2856CB69-B96D-4496-9507-8BE8405BF3BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Line change", "Line change\Line change.csproj", "{0B184845-A6BC-4D4B-9C4D-7ACB323014E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Line change", "Line change\Line change.csproj", "{0B184845-A6BC-4D4B-9C4D-7ACB323014E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Builder", "String Builder\String Builder.csproj", "{22F14A04-3E48-4F6A-8848-5B9BF135A86B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Builder", "String Builder\String Builder.csproj", "{22F14A04-3E48-4F6A-8848-5B9BF135A86B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String formatting", "String formatting\String formatting.csproj", "{FFA57D3F-5862-48E2-B896-4758F3B31C69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String formatting", "String formatting\String formatting.csproj", "{FFA57D3F-5862-48E2-B896-4758F3B31C69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String comparison", "String comparison\String comparison.csproj", "{9A54E016-EB3B-4CEC-89D6-3C0656152680}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String comparison", "String comparison\String comparison.csproj", "{9A54E016-EB3B-4CEC-89D6-3C0656152680}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "We work with the console", "We work with the console\We work with the console.csproj", "{5277849F-4A12-4131-ACCB-A8870680AB0F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "We work with the console", "We work with the console\We work with the console.csproj", "{5277849F-4A12-4131-ACCB-A8870680AB0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Privedeniye tipov i parsing", "Privedeniye tipov i parsing\Privedeniye tipov i parsing.csproj", "{80A351DF-269B-4E83-9480-93AB3BF0A81F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Privedeniye tipov i parsing", "Privedeniye tipov i parsing\Privedeniye tipov i parsing.csproj", "{80A351DF-269B-4E83-9480-93AB3BF0A81F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comments", "Comments\Comments.csproj", "{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comments", "Comments\Comments.csproj", "{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Math", "Class Math\Class Math.csproj", "{365A8E0D-BF70-4B30-A8B6-B23724505745}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vvedeniye v massivy", "Vvedeniye v massivy\Vvedeniye v massivy.csproj", "{3DF92E05-FC69-41E4-9FBC-65869529C973}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +103,14 @@ Global
 		{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365A8E0D-BF70-4B30-A8B6-B23724505745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365A8E0D-BF70-4B30-A8B6-B23724505745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365A8E0D-BF70-4B30-A8B6-B23724505745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365A8E0D-BF70-4B30-A8B6-B23724505745}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF92E05-FC69-41E4-9FBC-65869529C973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF92E05-FC69-41E4-9FBC-65869529C973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF92E05-FC69-41E4-9FBC-65869529C973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF92E05-FC69-41E4-9FBC-65869529C973}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
