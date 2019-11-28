@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Math", "Class Math\Cl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vvedeniye v massivy", "Vvedeniye v massivy\Vvedeniye v massivy.csproj", "{3DF92E05-FC69-41E4-9FBC-65869529C973}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducing DateTime", "Introducing DateTime\Introducing DateTime.csproj", "{21653948-9468-4EBD-838E-7A63CD52D571}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{3DF92E05-FC69-41E4-9FBC-65869529C973}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DF92E05-FC69-41E4-9FBC-65869529C973}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DF92E05-FC69-41E4-9FBC-65869529C973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21653948-9468-4EBD-838E-7A63CD52D571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21653948-9468-4EBD-838E-7A63CD52D571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21653948-9468-4EBD-838E-7A63CD52D571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21653948-9468-4EBD-838E-7A63CD52D571}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
