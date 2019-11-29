@@ -33,15 +33,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Privedeniye tipov i parsing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Comments", "Comments\Comments.csproj", "{8C5AB971-3FB5-44B8-9AD0-37D2B548B293}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Math", "Class Math\Class Math.csproj", "{365A8E0D-BF70-4B30-A8B6-B23724505745}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Math", "Class Math\Class Math.csproj", "{365A8E0D-BF70-4B30-A8B6-B23724505745}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vvedeniye v massivy", "Vvedeniye v massivy\Vvedeniye v massivy.csproj", "{3DF92E05-FC69-41E4-9FBC-65869529C973}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vvedeniye v massivy", "Vvedeniye v massivy\Vvedeniye v massivy.csproj", "{3DF92E05-FC69-41E4-9FBC-65869529C973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introducing DateTime", "Introducing DateTime\Introducing DateTime.csproj", "{21653948-9468-4EBD-838E-7A63CD52D571}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Introducing DateTime", "Introducing DateTime\Introducing DateTime.csproj", "{21653948-9468-4EBD-838E-7A63CD52D571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_1", "Homework_1\Homework_1.csproj", "{929C62A0-7EA9-4EA8-95B5-E6095F74192F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_1", "Homework_1\Homework_1.csproj", "{929C62A0-7EA9-4EA8-95B5-E6095F74192F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_2", "Homework_2\Homework_2.csproj", "{0848E784-ED84-4AE6-8945-CA524E31EDC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_2", "Homework_2\Homework_2.csproj", "{0848E784-ED84-4AE6-8945-CA524E31EDC4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_3", "Homework_3\Homework_3.csproj", "{193DF259-E5E2-48E8-950F-71EEC5B7E005}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Expressions in csharp", "Conditional Expressions in csharp\Conditional Expressions in csharp.csproj", "{82EC2574-5108-453E-9927-8FE82211AE79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +133,14 @@ Global
 		{0848E784-ED84-4AE6-8945-CA524E31EDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0848E784-ED84-4AE6-8945-CA524E31EDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0848E784-ED84-4AE6-8945-CA524E31EDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{193DF259-E5E2-48E8-950F-71EEC5B7E005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193DF259-E5E2-48E8-950F-71EEC5B7E005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193DF259-E5E2-48E8-950F-71EEC5B7E005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193DF259-E5E2-48E8-950F-71EEC5B7E005}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82EC2574-5108-453E-9927-8FE82211AE79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82EC2574-5108-453E-9927-8FE82211AE79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82EC2574-5108-453E-9927-8FE82211AE79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82EC2574-5108-453E-9927-8FE82211AE79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
