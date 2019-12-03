@@ -45,11 +45,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_2", "Homework_2\Ho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_3", "Homework_3\Homework_3.csproj", "{193DF259-E5E2-48E8-950F-71EEC5B7E005}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditional Expressions in csharp", "Conditional Expressions in csharp\Conditional Expressions in csharp.csproj", "{82EC2574-5108-453E-9927-8FE82211AE79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditional Expressions in csharp", "Conditional Expressions in csharp\Conditional Expressions in csharp.csproj", "{82EC2574-5108-453E-9927-8FE82211AE79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework_4", "Homework_4\Homework_4.csproj", "{E42E7DCB-BE5B-4325-B265-1FF3E50E8220}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_4", "Homework_4\Homework_4.csproj", "{E42E7DCB-BE5B-4325-B265-1FF3E50E8220}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For and each cycle", "For and each cycle\For and each cycle.csproj", "{3923931B-1209-4A9F-8F20-6F8FFA14C6C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For and each cycle", "For and each cycle\For and each cycle.csproj", "{3923931B-1209-4A9F-8F20-6F8FFA14C6C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlozhennyĭ tsikl for", "Vlozhennyĭ tsikl for\Vlozhennyĭ tsikl for.csproj", "{C3B9D6F2-6960-4AF2-8853-E7E790AAACCB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{3923931B-1209-4A9F-8F20-6F8FFA14C6C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3923931B-1209-4A9F-8F20-6F8FFA14C6C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3923931B-1209-4A9F-8F20-6F8FFA14C6C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3B9D6F2-6960-4AF2-8853-E7E790AAACCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3B9D6F2-6960-4AF2-8853-E7E790AAACCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3B9D6F2-6960-4AF2-8853-E7E790AAACCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3B9D6F2-6960-4AF2-8853-E7E790AAACCB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
