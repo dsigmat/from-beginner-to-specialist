@@ -51,11 +51,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework_4", "Homework_4\Ho
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For and each cycle", "For and each cycle\For and each cycle.csproj", "{3923931B-1209-4A9F-8F20-6F8FFA14C6C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlozhennyĭ tsikl for", "Vlozhennyĭ tsikl for\Vlozhennyĭ tsikl for.csproj", "{C3B9D6F2-6960-4AF2-8853-E7E790AAACCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vlozhennyĭ tsikl for", "Vlozhennyĭ tsikl for\Vlozhennyĭ tsikl for.csproj", "{C3B9D6F2-6960-4AF2-8853-E7E790AAACCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While and do while loops", "While and do while loops\While and do while loops.csproj", "{75D18032-7DB8-410E-A986-BA7E413A4B65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "While and do while loops", "While and do while loops\While and do while loops.csproj", "{75D18032-7DB8-410E-A986-BA7E413A4B65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "break and continue loop control", "break and continue loop control\break and continue loop control.csproj", "{4E32FDFE-0403-49DC-AA6D-FECA6D3E3FCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "break and continue loop control", "break and continue loop control\break and continue loop control.csproj", "{4E32FDFE-0403-49DC-AA6D-FECA6D3E3FCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_else", "if_else\if_else.csproj", "{1A1CE81A-21F9-48A9-9547-B340C6700CBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +173,10 @@ Global
 		{4E32FDFE-0403-49DC-AA6D-FECA6D3E3FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E32FDFE-0403-49DC-AA6D-FECA6D3E3FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E32FDFE-0403-49DC-AA6D-FECA6D3E3FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A1CE81A-21F9-48A9-9547-B340C6700CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A1CE81A-21F9-48A9-9547-B340C6700CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A1CE81A-21F9-48A9-9547-B340C6700CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A1CE81A-21F9-48A9-9547-B340C6700CBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
