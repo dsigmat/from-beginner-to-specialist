@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "break and continue loop con
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "if_else", "if_else\if_else.csproj", "{1A1CE81A-21F9-48A9-9547-B340C6700CBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch case", "switch case\switch case.csproj", "{CC2E5AC0-2462-476F-9273-231A086088A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "switch case", "switch case\switch case.csproj", "{CC2E5AC0-2462-476F-9273-231A086088A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Debugging Basics", "Debugging Basics\Debugging Basics.csproj", "{4AB02045-BE2B-4D38-8E7A-595BED8401B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{CC2E5AC0-2462-476F-9273-231A086088A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC2E5AC0-2462-476F-9273-231A086088A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC2E5AC0-2462-476F-9273-231A086088A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB02045-BE2B-4D38-8E7A-595BED8401B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB02045-BE2B-4D38-8E7A-595BED8401B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB02045-BE2B-4D38-8E7A-595BED8401B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB02045-BE2B-4D38-8E7A-595BED8401B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
